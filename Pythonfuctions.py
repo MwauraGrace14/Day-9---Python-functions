@@ -7,7 +7,7 @@ def myfunction():
 myfunction()
 
 
-#Hurdles lop challenge
+#Hurdles loop challenge
 def turn_right():
     print("Next step")
 def jump():
